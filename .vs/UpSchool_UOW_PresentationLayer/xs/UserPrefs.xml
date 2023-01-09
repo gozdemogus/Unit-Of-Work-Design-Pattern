@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{DC57ADEA-5A4A-4DEB-B5AB-E090D19CA34E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UpSchool_UOW_DataAccessLayer/UnitOfWork/UnitOfWorkDal.cs">
+    <Files>
+      <File FileName="UpSchool_UOW_PresentationLayer/Controllers/AccountController.cs" Line="1" Column="1" />
+      <File FileName="UpSchool_UOW_PresentationLayer/Models/AccountViewModel.cs" Line="1" Column="1" />
+      <File FileName="UpSchool_UOW_PresentationLayer/Views/Account/Index.cshtml" Line="1" Column="1" />
+      <File FileName="UpSchool_UOW_EntityLayer/Account.cs" Line="1" Column="1" />
+      <File FileName="UpSchool_UOW_DataAccessLayer/UnitOfWork/IUnitOfWorkDal.cs" Line="1" Column="1" />
+      <File FileName="UpSchool_UOW_DataAccessLayer/UnitOfWork/UnitOfWorkDal.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UpSchool_UOW_PresentationLayer" expanded="True">
+            <Node name="UpSchool_UOW_DataAccessLayer" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+              <Node name="EntityFramework" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="UnitOfWork" expanded="True">
+                <Node name="UnitOfWorkDal.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="UpSchool_UOW_EntityLayer" expanded="True" />
+            <Node name="UpSchool_UOW_PresentationLayer" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UpSchool__UOW__PresentationLayer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

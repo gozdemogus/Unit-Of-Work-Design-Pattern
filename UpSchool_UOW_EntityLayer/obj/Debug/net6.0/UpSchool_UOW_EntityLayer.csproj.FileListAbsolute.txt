@@ -1,0 +1,14 @@
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/bin/Debug/net6.0/UpSchool_UOW_EntityLayer.deps.json
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/bin/Debug/net6.0/UpSchool_UOW_EntityLayer.runtimeconfig.json
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/bin/Debug/net6.0/UpSchool_UOW_EntityLayer.dll
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/bin/Debug/net6.0/UpSchool_UOW_EntityLayer.pdb
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/UpSchool_UOW_EntityLayer.csproj.AssemblyReference.cache
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/UpSchool_UOW_EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/UpSchool_UOW_EntityLayer.AssemblyInfoInputs.cache
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/UpSchool_UOW_EntityLayer.AssemblyInfo.cs
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/UpSchool_UOW_EntityLayer.csproj.CoreCompileInputs.cache
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/UpSchool_UOW_EntityLayer.dll
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/refint/UpSchool_UOW_EntityLayer.dll
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/UpSchool_UOW_EntityLayer.pdb
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/UpSchool_UOW_EntityLayer.genruntimeconfig.cache
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_EntityLayer/obj/Debug/net6.0/ref/UpSchool_UOW_EntityLayer.dll

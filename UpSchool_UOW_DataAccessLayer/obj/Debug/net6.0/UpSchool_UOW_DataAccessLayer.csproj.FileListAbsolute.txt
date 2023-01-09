@@ -1,0 +1,17 @@
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/bin/Debug/net6.0/UpSchool_UOW_DataAccessLayer.deps.json
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/bin/Debug/net6.0/UpSchool_UOW_DataAccessLayer.runtimeconfig.json
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/bin/Debug/net6.0/UpSchool_UOW_DataAccessLayer.dll
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/bin/Debug/net6.0/UpSchool_UOW_DataAccessLayer.pdb
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/bin/Debug/net6.0/UpSchool_UOW_EntityLayer.dll
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/bin/Debug/net6.0/UpSchool_UOW_EntityLayer.pdb
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/UpSchool_UOW_DataAccessLayer.csproj.AssemblyReference.cache
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/UpSchool_UOW_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/UpSchool_UOW_DataAccessLayer.AssemblyInfoInputs.cache
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/UpSchool_UOW_DataAccessLayer.AssemblyInfo.cs
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/UpSchool_UOW_DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/UpSchool_UOW_DataAccessLayer.csproj.CopyComplete
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/UpSchool_UOW_DataAccessLayer.dll
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/refint/UpSchool_UOW_DataAccessLayer.dll
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/UpSchool_UOW_DataAccessLayer.pdb
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/UpSchool_UOW_DataAccessLayer.genruntimeconfig.cache
+/Users/gozdemogus/Desktop/UOW/UpSchool_UnitOfWork_Project/UpSchool_UOW_DataAccessLayer/obj/Debug/net6.0/ref/UpSchool_UOW_DataAccessLayer.dll
